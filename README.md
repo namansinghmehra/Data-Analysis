@@ -45,13 +45,6 @@ Name: Sale_amt, dtype: float64
 
 Visual representation of total sales amounts by `Central`, `East`, and `West` regions.
 
-## Screenshots
-
-![Bar Chart Output](./Screenshot-2025-09-29-210624.jpg)
-
-![Grouped Sales Table](./Screenshot-2025-09-29-210646.jpg)
-
-
 ---
 
 ## Contact
