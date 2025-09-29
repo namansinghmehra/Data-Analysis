@@ -47,9 +47,10 @@ Visual representation of total sales amounts by `Central`, `East`, and `West` re
 
 ## Screenshots
 
-![Bar Chart Output](./screenshots/BarChart.png)
+![Bar Chart Output](./Screenshot-2025-09-29-210624.jpg)
 
-![Grouped Sales Table](./screenshots/SalesTable.png)
+![Grouped Sales Table](./Screenshot-2025-09-29-210646.jpg)
+
 
 ---
 
