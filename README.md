@@ -49,8 +49,3 @@ Visual representation of total sales amounts by `Central`, `East`, and `West` re
 <img width="918" alt="Screenshot 2025-09-29 210624" src="https://github.com/user-attachments/assets/e182a444-db7d-4a17-aa77-44fc60afe467" />
 
 --<img width="480"  alt="Screenshot 2025-09-29 210646" src="https://github.com/user-attachments/assets/043bce97-5b87-4eb8-a1a3-4562adf61fb1" />
--
-
-## Contact
-
-For questions, open an issue or contact the project owner.
